@@ -662,4 +662,9 @@
   .desc-link {
     font-size: 1.6rem;
   }
+  .btn-sup,
+  .btn-login {
+    border: none;
+    padding: 2rem 4rem;
+  }
 }
