@@ -609,8 +609,12 @@
     gap: 0;
   }
   .center {
+    display: grid;
     justify-items: center;
     align-items: center;
+  }
+  .center a {
+    justify-items: center;
   }
 
   .icons-logos {
