@@ -1,0 +1,20 @@
+:root {
+  --primary-color: #163300;
+  --secondary-color: #77e200;
+  --cod-50-color: #f1f1f0;
+  --cod-100-color: #e7e7e0;
+  --cod-200-color: #cccec1;
+  --cod-300-color: #aaad9b;
+  --cod-400-color: #878c75;
+  --cod-600-color: #545948;
+  --palm-50-color: #f6ffe4;
+  --palm-100-color: #e9ffc5;
+  --palm-300-color: #b5ff53;
+  --palm-600-color: #59b500;
+  --palm-700-color: #448902;
+  --palm-900-color: #315b0c;
+  --text-color: #0e0f0c;
+  --font-size: 2rem;
+  --h1: 7.2rem;
+  --h2: 4.8rem;
+}
